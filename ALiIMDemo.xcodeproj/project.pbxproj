@@ -12,42 +12,6 @@
 		9DC8881920A42B35005D338B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8881720A42B35005D338B /* Main.storyboard */; };
 		9DC8881B20A42B37005D338B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8881A20A42B37005D338B /* Assets.xcassets */; };
 		9DC8881E20A42B37005D338B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8881C20A42B37005D338B /* LaunchScreen.storyboard */; };
-		9DC8886820A42B8F005D338B /* SecurityGuardSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DC8882D20A42B8F005D338B /* SecurityGuardSDK.framework */; };
-		9DC8886920A42B8F005D338B /* YWFeedbackServiceFMWK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DC8882E20A42B8F005D338B /* YWFeedbackServiceFMWK.framework */; };
-		9DC8886A20A42B8F005D338B /* WXOUIModule.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DC8882F20A42B8F005D338B /* WXOUIModule.framework */; };
-		9DC8886B20A42B8F005D338B /* WXOUIModuleResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8883020A42B8F005D338B /* WXOUIModuleResources.bundle */; };
-		9DC8886C20A42B8F005D338B /* SGMain.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DC8883120A42B8F005D338B /* SGMain.framework */; };
-		9DC8886D20A42B8F005D338B /* yw_1222.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8883220A42B8F005D338B /* yw_1222.jpg */; };
-		9DC8886E20A42B8F005D338B /* WXOpenIMSDKResource.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8883320A42B8F005D338B /* WXOpenIMSDKResource.bundle */; };
-		9DC8886F20A42B8F005D338B /* UTMini.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DC8883420A42B8F005D338B /* UTMini.framework */; };
-		9DC8887020A42B8F005D338B /* WXOpenIMSDKFMWK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DC8883520A42B8F005D338B /* WXOpenIMSDKFMWK.framework */; };
-		9DC8887120A42B8F005D338B /* SPKitExample.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8883720A42B8F005D338B /* SPKitExample.m */; };
-		9DC8887220A42B8F005D338B /* demo_discussion@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8883A20A42B8F005D338B /* demo_discussion@2x.png */; };
-		9DC8887320A42B8F005D338B /* pub_title_ico_back_white@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8883B20A42B8F005D338B /* pub_title_ico_back_white@2x.png */; };
-		9DC8887420A42B8F005D338B /* profile.json in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8883D20A42B8F005D338B /* profile.json */; };
-		9DC8887520A42B8F005D338B /* SPUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8883F20A42B8F005D338B /* SPUtil.m */; };
-		9DC8887620A42B8F005D338B /* icon_add@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8884220A42B8F005D338B /* icon_add@2x.png */; };
-		9DC8887720A42B8F005D338B /* YW_TGZ_Emoitons.emo in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8884320A42B8F005D338B /* YW_TGZ_Emoitons.emo */; };
-		9DC8887820A42B8F005D338B /* calling_card_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8884420A42B8F005D338B /* calling_card_bg@2x.png */; };
-		9DC8887920A42B8F005D338B /* CustomizedUIResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8884520A42B8F005D338B /* CustomizedUIResources.bundle */; };
-		9DC8887A20A42B8F005D338B /* face_e@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8884620A42B8F005D338B /* face_e@2x.png */; };
-		9DC8887B20A42B8F005D338B /* greeting_message@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8884720A42B8F005D338B /* greeting_message@2x.png */; };
-		9DC8887C20A42B8F005D338B /* input_plug_ico_hi_nor@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8884820A42B8F005D338B /* input_plug_ico_hi_nor@2x.png */; };
-		9DC8887D20A42B8F005D338B /* input_plug_ico_card_nor@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8884920A42B8F005D338B /* input_plug_ico_card_nor@2x.png */; };
-		9DC8887E20A42B8F005D338B /* icon_delete@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8884A20A42B8F005D338B /* icon_delete@2x.png */; };
-		9DC8887F20A42B8F005D338B /* input_plug_ico_transparent_nor@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8884B20A42B8F005D338B /* input_plug_ico_transparent_nor@2x.png */; };
-		9DC8888020A42B8F005D338B /* SPGreetingBubbleViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8885020A42B8F005D338B /* SPGreetingBubbleViewModel.m */; };
-		9DC8888120A42B8F005D338B /* SPGreetingBubbleChatView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8885120A42B8F005D338B /* SPGreetingBubbleChatView.m */; };
-		9DC8888220A42B8F005D338B /* SPInputViewPluginGreeting.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8885220A42B8F005D338B /* SPInputViewPluginGreeting.m */; };
-		9DC8888320A42B8F005D338B /* SPInputViewPluginTransparent.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8885520A42B8F005D338B /* SPInputViewPluginTransparent.m */; };
-		9DC8888420A42B8F005D338B /* SPBaseBubbleChatViewCustomize.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8885920A42B8F005D338B /* SPBaseBubbleChatViewCustomize.m */; };
-		9DC8888520A42B8F005D338B /* TSBuyOrSaleChatViewCustomize.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8885A20A42B8F005D338B /* TSBuyOrSaleChatViewCustomize.m */; };
-		9DC8888620A42B8F005D338B /* TSBuyOrSaleChatModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8885B20A42B8F005D338B /* TSBuyOrSaleChatModel.m */; };
-		9DC8888720A42B8F005D338B /* SPBubbleViewModelCustomize.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8885C20A42B8F005D338B /* SPBubbleViewModelCustomize.m */; };
-		9DC8888820A42B8F005D338B /* SPCallingCardBubbleChatContentView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8886120A42B8F005D338B /* SPCallingCardBubbleChatContentView.xib */; };
-		9DC8888920A42B8F005D338B /* SPCallingCardBubbleChatView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8886420A42B8F005D338B /* SPCallingCardBubbleChatView.m */; };
-		9DC8888A20A42B8F005D338B /* SPInputViewPluginCallingCard.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8886520A42B8F005D338B /* SPInputViewPluginCallingCard.m */; };
-		9DC8888B20A42B8F005D338B /* SPCallingCardBubbleViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8886720A42B8F005D338B /* SPCallingCardBubbleViewModel.m */; };
 		9DC888CE20A42F3C005D338B /* NSLayoutConstraint+MASDebugAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8889320A42F3C005D338B /* NSLayoutConstraint+MASDebugAdditions.m */; };
 		9DC888CF20A42F3C005D338B /* ViewController+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8889C20A42F3C005D338B /* ViewController+MASAdditions.m */; };
 		9DC888D020A42F3C005D338B /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC888A020A42F3C005D338B /* MASCompositeConstraint.m */; };
@@ -91,6 +55,33 @@
 		9DC8890B20A4354F005D338B /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DC8890A20A4354F005D338B /* AVFoundation.framework */; };
 		9DC8890D20A43557005D338B /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DC8890C20A43557005D338B /* AssetsLibrary.framework */; };
 		9DC8890F20A43561005D338B /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DC8890E20A43560005D338B /* CoreMotion.framework */; };
+		9DC8894320A43DE1005D338B /* SPKitExample.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8891220A43DE1005D338B /* SPKitExample.m */; };
+		9DC8894420A43DE1005D338B /* demo_discussion@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8891520A43DE1005D338B /* demo_discussion@2x.png */; };
+		9DC8894520A43DE1005D338B /* pub_title_ico_back_white@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8891620A43DE1005D338B /* pub_title_ico_back_white@2x.png */; };
+		9DC8894620A43DE1005D338B /* profile.json in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8891820A43DE1005D338B /* profile.json */; };
+		9DC8894720A43DE1005D338B /* SPUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8891A20A43DE1005D338B /* SPUtil.m */; };
+		9DC8894820A43DE1005D338B /* icon_add@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8891D20A43DE1005D338B /* icon_add@2x.png */; };
+		9DC8894920A43DE1005D338B /* YW_TGZ_Emoitons.emo in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8891E20A43DE1005D338B /* YW_TGZ_Emoitons.emo */; };
+		9DC8894A20A43DE1005D338B /* calling_card_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8891F20A43DE1005D338B /* calling_card_bg@2x.png */; };
+		9DC8894B20A43DE1005D338B /* CustomizedUIResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8892020A43DE1005D338B /* CustomizedUIResources.bundle */; };
+		9DC8894C20A43DE1005D338B /* face_e@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8892120A43DE1005D338B /* face_e@2x.png */; };
+		9DC8894D20A43DE1005D338B /* greeting_message@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8892220A43DE1005D338B /* greeting_message@2x.png */; };
+		9DC8894E20A43DE1005D338B /* input_plug_ico_hi_nor@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8892320A43DE1005D338B /* input_plug_ico_hi_nor@2x.png */; };
+		9DC8894F20A43DE1005D338B /* input_plug_ico_card_nor@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8892420A43DE1005D338B /* input_plug_ico_card_nor@2x.png */; };
+		9DC8895020A43DE1005D338B /* icon_delete@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8892520A43DE1005D338B /* icon_delete@2x.png */; };
+		9DC8895120A43DE1005D338B /* input_plug_ico_transparent_nor@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8892620A43DE1005D338B /* input_plug_ico_transparent_nor@2x.png */; };
+		9DC8895220A43DE1005D338B /* SPGreetingBubbleViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8892B20A43DE1005D338B /* SPGreetingBubbleViewModel.m */; };
+		9DC8895320A43DE1005D338B /* SPGreetingBubbleChatView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8892C20A43DE1005D338B /* SPGreetingBubbleChatView.m */; };
+		9DC8895420A43DE1005D338B /* SPInputViewPluginGreeting.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8892D20A43DE1005D338B /* SPInputViewPluginGreeting.m */; };
+		9DC8895520A43DE1005D338B /* SPInputViewPluginTransparent.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8893020A43DE1005D338B /* SPInputViewPluginTransparent.m */; };
+		9DC8895620A43DE1005D338B /* SPBaseBubbleChatViewCustomize.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8893420A43DE1005D338B /* SPBaseBubbleChatViewCustomize.m */; };
+		9DC8895720A43DE1005D338B /* TSBuyOrSaleChatViewCustomize.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8893520A43DE1005D338B /* TSBuyOrSaleChatViewCustomize.m */; };
+		9DC8895820A43DE1005D338B /* TSBuyOrSaleChatModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8893620A43DE1005D338B /* TSBuyOrSaleChatModel.m */; };
+		9DC8895920A43DE1005D338B /* SPBubbleViewModelCustomize.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8893720A43DE1005D338B /* SPBubbleViewModelCustomize.m */; };
+		9DC8895A20A43DE1005D338B /* SPCallingCardBubbleChatContentView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9DC8893C20A43DE1005D338B /* SPCallingCardBubbleChatContentView.xib */; };
+		9DC8895B20A43DE1005D338B /* SPCallingCardBubbleChatView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8893F20A43DE1005D338B /* SPCallingCardBubbleChatView.m */; };
+		9DC8895C20A43DE1005D338B /* SPInputViewPluginCallingCard.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8894020A43DE1005D338B /* SPInputViewPluginCallingCard.m */; };
+		9DC8895D20A43DE1005D338B /* SPCallingCardBubbleViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC8894220A43DE1005D338B /* SPCallingCardBubbleViewModel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -101,55 +92,6 @@
 		9DC8881A20A42B37005D338B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9DC8881D20A42B37005D338B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9DC8881F20A42B37005D338B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9DC8882D20A42B8F005D338B /* SecurityGuardSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SecurityGuardSDK.framework; sourceTree = "<group>"; };
-		9DC8882E20A42B8F005D338B /* YWFeedbackServiceFMWK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = YWFeedbackServiceFMWK.framework; sourceTree = "<group>"; };
-		9DC8882F20A42B8F005D338B /* WXOUIModule.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = WXOUIModule.framework; sourceTree = "<group>"; };
-		9DC8883020A42B8F005D338B /* WXOUIModuleResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = WXOUIModuleResources.bundle; sourceTree = "<group>"; };
-		9DC8883120A42B8F005D338B /* SGMain.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SGMain.framework; sourceTree = "<group>"; };
-		9DC8883220A42B8F005D338B /* yw_1222.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yw_1222.jpg; sourceTree = "<group>"; };
-		9DC8883320A42B8F005D338B /* WXOpenIMSDKResource.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = WXOpenIMSDKResource.bundle; sourceTree = "<group>"; };
-		9DC8883420A42B8F005D338B /* UTMini.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = UTMini.framework; sourceTree = "<group>"; };
-		9DC8883520A42B8F005D338B /* WXOpenIMSDKFMWK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = WXOpenIMSDKFMWK.framework; sourceTree = "<group>"; };
-		9DC8883720A42B8F005D338B /* SPKitExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPKitExample.m; sourceTree = "<group>"; };
-		9DC8883820A42B8F005D338B /* SPUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPUtil.h; sourceTree = "<group>"; };
-		9DC8883A20A42B8F005D338B /* demo_discussion@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "demo_discussion@2x.png"; sourceTree = "<group>"; };
-		9DC8883B20A42B8F005D338B /* pub_title_ico_back_white@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pub_title_ico_back_white@2x.png"; sourceTree = "<group>"; };
-		9DC8883D20A42B8F005D338B /* profile.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = profile.json; sourceTree = "<group>"; };
-		9DC8883E20A42B8F005D338B /* SPKitExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPKitExample.h; sourceTree = "<group>"; };
-		9DC8883F20A42B8F005D338B /* SPUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPUtil.m; sourceTree = "<group>"; };
-		9DC8884220A42B8F005D338B /* icon_add@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_add@2x.png"; sourceTree = "<group>"; };
-		9DC8884320A42B8F005D338B /* YW_TGZ_Emoitons.emo */ = {isa = PBXFileReference; lastKnownFileType = file; path = YW_TGZ_Emoitons.emo; sourceTree = "<group>"; };
-		9DC8884420A42B8F005D338B /* calling_card_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "calling_card_bg@2x.png"; sourceTree = "<group>"; };
-		9DC8884520A42B8F005D338B /* CustomizedUIResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = CustomizedUIResources.bundle; sourceTree = "<group>"; };
-		9DC8884620A42B8F005D338B /* face_e@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "face_e@2x.png"; sourceTree = "<group>"; };
-		9DC8884720A42B8F005D338B /* greeting_message@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "greeting_message@2x.png"; sourceTree = "<group>"; };
-		9DC8884820A42B8F005D338B /* input_plug_ico_hi_nor@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "input_plug_ico_hi_nor@2x.png"; sourceTree = "<group>"; };
-		9DC8884920A42B8F005D338B /* input_plug_ico_card_nor@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "input_plug_ico_card_nor@2x.png"; sourceTree = "<group>"; };
-		9DC8884A20A42B8F005D338B /* icon_delete@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_delete@2x.png"; sourceTree = "<group>"; };
-		9DC8884B20A42B8F005D338B /* input_plug_ico_transparent_nor@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "input_plug_ico_transparent_nor@2x.png"; sourceTree = "<group>"; };
-		9DC8884E20A42B8F005D338B /* SPGreetingBubbleChatView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPGreetingBubbleChatView.h; sourceTree = "<group>"; };
-		9DC8884F20A42B8F005D338B /* SPInputViewPluginGreeting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPInputViewPluginGreeting.h; sourceTree = "<group>"; };
-		9DC8885020A42B8F005D338B /* SPGreetingBubbleViewModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPGreetingBubbleViewModel.m; sourceTree = "<group>"; };
-		9DC8885120A42B8F005D338B /* SPGreetingBubbleChatView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPGreetingBubbleChatView.m; sourceTree = "<group>"; };
-		9DC8885220A42B8F005D338B /* SPInputViewPluginGreeting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPInputViewPluginGreeting.m; sourceTree = "<group>"; };
-		9DC8885320A42B8F005D338B /* SPGreetingBubbleViewModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPGreetingBubbleViewModel.h; sourceTree = "<group>"; };
-		9DC8885520A42B8F005D338B /* SPInputViewPluginTransparent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPInputViewPluginTransparent.m; sourceTree = "<group>"; };
-		9DC8885620A42B8F005D338B /* SPInputViewPluginTransparent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPInputViewPluginTransparent.h; sourceTree = "<group>"; };
-		9DC8885820A42B8F005D338B /* SPBubbleViewModelCustomize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPBubbleViewModelCustomize.h; sourceTree = "<group>"; };
-		9DC8885920A42B8F005D338B /* SPBaseBubbleChatViewCustomize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPBaseBubbleChatViewCustomize.m; sourceTree = "<group>"; };
-		9DC8885A20A42B8F005D338B /* TSBuyOrSaleChatViewCustomize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TSBuyOrSaleChatViewCustomize.m; sourceTree = "<group>"; };
-		9DC8885B20A42B8F005D338B /* TSBuyOrSaleChatModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TSBuyOrSaleChatModel.m; sourceTree = "<group>"; };
-		9DC8885C20A42B8F005D338B /* SPBubbleViewModelCustomize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPBubbleViewModelCustomize.m; sourceTree = "<group>"; };
-		9DC8885D20A42B8F005D338B /* SPBaseBubbleChatViewCustomize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPBaseBubbleChatViewCustomize.h; sourceTree = "<group>"; };
-		9DC8885E20A42B8F005D338B /* TSBuyOrSaleChatModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSBuyOrSaleChatModel.h; sourceTree = "<group>"; };
-		9DC8885F20A42B8F005D338B /* TSBuyOrSaleChatViewCustomize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSBuyOrSaleChatViewCustomize.h; sourceTree = "<group>"; };
-		9DC8886120A42B8F005D338B /* SPCallingCardBubbleChatContentView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SPCallingCardBubbleChatContentView.xib; sourceTree = "<group>"; };
-		9DC8886220A42B8F005D338B /* SPInputViewPluginCallingCard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPInputViewPluginCallingCard.h; sourceTree = "<group>"; };
-		9DC8886320A42B8F005D338B /* SPCallingCardBubbleViewModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPCallingCardBubbleViewModel.h; sourceTree = "<group>"; };
-		9DC8886420A42B8F005D338B /* SPCallingCardBubbleChatView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPCallingCardBubbleChatView.m; sourceTree = "<group>"; };
-		9DC8886520A42B8F005D338B /* SPInputViewPluginCallingCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPInputViewPluginCallingCard.m; sourceTree = "<group>"; };
-		9DC8886620A42B8F005D338B /* SPCallingCardBubbleChatView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPCallingCardBubbleChatView.h; sourceTree = "<group>"; };
-		9DC8886720A42B8F005D338B /* SPCallingCardBubbleViewModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPCallingCardBubbleViewModel.m; sourceTree = "<group>"; };
 		9DC8888F20A42D36005D338B /* ALiIMDemo-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ALiIMDemo-Bridging-Header.h"; sourceTree = "<group>"; };
 		9DC8889220A42F3C005D338B /* MASCompositeConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASCompositeConstraint.h; sourceTree = "<group>"; };
 		9DC8889320A42F3C005D338B /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
@@ -226,6 +168,46 @@
 		9DC8890A20A4354F005D338B /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		9DC8890C20A43557005D338B /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
 		9DC8890E20A43560005D338B /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		9DC8891220A43DE1005D338B /* SPKitExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPKitExample.m; sourceTree = "<group>"; };
+		9DC8891320A43DE1005D338B /* SPUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPUtil.h; sourceTree = "<group>"; };
+		9DC8891520A43DE1005D338B /* demo_discussion@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "demo_discussion@2x.png"; sourceTree = "<group>"; };
+		9DC8891620A43DE1005D338B /* pub_title_ico_back_white@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pub_title_ico_back_white@2x.png"; sourceTree = "<group>"; };
+		9DC8891820A43DE1005D338B /* profile.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = profile.json; sourceTree = "<group>"; };
+		9DC8891920A43DE1005D338B /* SPKitExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPKitExample.h; sourceTree = "<group>"; };
+		9DC8891A20A43DE1005D338B /* SPUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPUtil.m; sourceTree = "<group>"; };
+		9DC8891D20A43DE1005D338B /* icon_add@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_add@2x.png"; sourceTree = "<group>"; };
+		9DC8891E20A43DE1005D338B /* YW_TGZ_Emoitons.emo */ = {isa = PBXFileReference; lastKnownFileType = file; path = YW_TGZ_Emoitons.emo; sourceTree = "<group>"; };
+		9DC8891F20A43DE1005D338B /* calling_card_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "calling_card_bg@2x.png"; sourceTree = "<group>"; };
+		9DC8892020A43DE1005D338B /* CustomizedUIResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = CustomizedUIResources.bundle; sourceTree = "<group>"; };
+		9DC8892120A43DE1005D338B /* face_e@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "face_e@2x.png"; sourceTree = "<group>"; };
+		9DC8892220A43DE1005D338B /* greeting_message@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "greeting_message@2x.png"; sourceTree = "<group>"; };
+		9DC8892320A43DE1005D338B /* input_plug_ico_hi_nor@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "input_plug_ico_hi_nor@2x.png"; sourceTree = "<group>"; };
+		9DC8892420A43DE1005D338B /* input_plug_ico_card_nor@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "input_plug_ico_card_nor@2x.png"; sourceTree = "<group>"; };
+		9DC8892520A43DE1005D338B /* icon_delete@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_delete@2x.png"; sourceTree = "<group>"; };
+		9DC8892620A43DE1005D338B /* input_plug_ico_transparent_nor@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "input_plug_ico_transparent_nor@2x.png"; sourceTree = "<group>"; };
+		9DC8892920A43DE1005D338B /* SPGreetingBubbleChatView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPGreetingBubbleChatView.h; sourceTree = "<group>"; };
+		9DC8892A20A43DE1005D338B /* SPInputViewPluginGreeting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPInputViewPluginGreeting.h; sourceTree = "<group>"; };
+		9DC8892B20A43DE1005D338B /* SPGreetingBubbleViewModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPGreetingBubbleViewModel.m; sourceTree = "<group>"; };
+		9DC8892C20A43DE1005D338B /* SPGreetingBubbleChatView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPGreetingBubbleChatView.m; sourceTree = "<group>"; };
+		9DC8892D20A43DE1005D338B /* SPInputViewPluginGreeting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPInputViewPluginGreeting.m; sourceTree = "<group>"; };
+		9DC8892E20A43DE1005D338B /* SPGreetingBubbleViewModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPGreetingBubbleViewModel.h; sourceTree = "<group>"; };
+		9DC8893020A43DE1005D338B /* SPInputViewPluginTransparent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPInputViewPluginTransparent.m; sourceTree = "<group>"; };
+		9DC8893120A43DE1005D338B /* SPInputViewPluginTransparent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPInputViewPluginTransparent.h; sourceTree = "<group>"; };
+		9DC8893320A43DE1005D338B /* SPBubbleViewModelCustomize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPBubbleViewModelCustomize.h; sourceTree = "<group>"; };
+		9DC8893420A43DE1005D338B /* SPBaseBubbleChatViewCustomize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPBaseBubbleChatViewCustomize.m; sourceTree = "<group>"; };
+		9DC8893520A43DE1005D338B /* TSBuyOrSaleChatViewCustomize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TSBuyOrSaleChatViewCustomize.m; sourceTree = "<group>"; };
+		9DC8893620A43DE1005D338B /* TSBuyOrSaleChatModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TSBuyOrSaleChatModel.m; sourceTree = "<group>"; };
+		9DC8893720A43DE1005D338B /* SPBubbleViewModelCustomize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPBubbleViewModelCustomize.m; sourceTree = "<group>"; };
+		9DC8893820A43DE1005D338B /* SPBaseBubbleChatViewCustomize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPBaseBubbleChatViewCustomize.h; sourceTree = "<group>"; };
+		9DC8893920A43DE1005D338B /* TSBuyOrSaleChatModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSBuyOrSaleChatModel.h; sourceTree = "<group>"; };
+		9DC8893A20A43DE1005D338B /* TSBuyOrSaleChatViewCustomize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSBuyOrSaleChatViewCustomize.h; sourceTree = "<group>"; };
+		9DC8893C20A43DE1005D338B /* SPCallingCardBubbleChatContentView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SPCallingCardBubbleChatContentView.xib; sourceTree = "<group>"; };
+		9DC8893D20A43DE1005D338B /* SPInputViewPluginCallingCard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPInputViewPluginCallingCard.h; sourceTree = "<group>"; };
+		9DC8893E20A43DE1005D338B /* SPCallingCardBubbleViewModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPCallingCardBubbleViewModel.h; sourceTree = "<group>"; };
+		9DC8893F20A43DE1005D338B /* SPCallingCardBubbleChatView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPCallingCardBubbleChatView.m; sourceTree = "<group>"; };
+		9DC8894020A43DE1005D338B /* SPInputViewPluginCallingCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPInputViewPluginCallingCard.m; sourceTree = "<group>"; };
+		9DC8894120A43DE1005D338B /* SPCallingCardBubbleChatView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPCallingCardBubbleChatView.h; sourceTree = "<group>"; };
+		9DC8894220A43DE1005D338B /* SPCallingCardBubbleViewModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPCallingCardBubbleViewModel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -249,12 +231,6 @@
 				9DC888F520A434CB005D338B /* SystemConfiguration.framework in Frameworks */,
 				9DC888F320A434C2005D338B /* AddressBook.framework in Frameworks */,
 				9DC888F120A434B0005D338B /* UIKit.framework in Frameworks */,
-				9DC8886920A42B8F005D338B /* YWFeedbackServiceFMWK.framework in Frameworks */,
-				9DC8886A20A42B8F005D338B /* WXOUIModule.framework in Frameworks */,
-				9DC8886820A42B8F005D338B /* SecurityGuardSDK.framework in Frameworks */,
-				9DC8886C20A42B8F005D338B /* SGMain.framework in Frameworks */,
-				9DC8886F20A42B8F005D338B /* UTMini.framework in Frameworks */,
-				9DC8887020A42B8F005D338B /* WXOpenIMSDKFMWK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,8 +257,8 @@
 		9DC8881220A42B35005D338B /* ALiIMDemo */ = {
 			isa = PBXGroup;
 			children = (
+				9DC8891020A43DE1005D338B /* IM */,
 				9DC8889020A42F3C005D338B /* ThirdFramework */,
-				9DC8882B20A42B8F005D338B /* IM */,
 				9DC8888F20A42D36005D338B /* ALiIMDemo-Bridging-Header.h */,
 				9DC8881320A42B35005D338B /* AppDelegate.swift */,
 				9DC8881520A42B35005D338B /* ViewController.swift */,
@@ -292,150 +268,6 @@
 				9DC8881F20A42B37005D338B /* Info.plist */,
 			);
 			path = ALiIMDemo;
-			sourceTree = "<group>";
-		};
-		9DC8882B20A42B8F005D338B /* IM */ = {
-			isa = PBXGroup;
-			children = (
-				9DC8882C20A42B8F005D338B /* WXFrameworks */,
-				9DC8883620A42B8F005D338B /* MainLogic */,
-				9DC8884020A42B8F005D338B /* Customize */,
-			);
-			path = IM;
-			sourceTree = "<group>";
-		};
-		9DC8882C20A42B8F005D338B /* WXFrameworks */ = {
-			isa = PBXGroup;
-			children = (
-				9DC8882D20A42B8F005D338B /* SecurityGuardSDK.framework */,
-				9DC8882E20A42B8F005D338B /* YWFeedbackServiceFMWK.framework */,
-				9DC8882F20A42B8F005D338B /* WXOUIModule.framework */,
-				9DC8883020A42B8F005D338B /* WXOUIModuleResources.bundle */,
-				9DC8883120A42B8F005D338B /* SGMain.framework */,
-				9DC8883220A42B8F005D338B /* yw_1222.jpg */,
-				9DC8883320A42B8F005D338B /* WXOpenIMSDKResource.bundle */,
-				9DC8883420A42B8F005D338B /* UTMini.framework */,
-				9DC8883520A42B8F005D338B /* WXOpenIMSDKFMWK.framework */,
-			);
-			path = WXFrameworks;
-			sourceTree = "<group>";
-		};
-		9DC8883620A42B8F005D338B /* MainLogic */ = {
-			isa = PBXGroup;
-			children = (
-				9DC8883C20A42B8F005D338B /* profile */,
-				9DC8883920A42B8F005D338B /* Resources */,
-				9DC8883E20A42B8F005D338B /* SPKitExample.h */,
-				9DC8883720A42B8F005D338B /* SPKitExample.m */,
-				9DC8883820A42B8F005D338B /* SPUtil.h */,
-				9DC8883F20A42B8F005D338B /* SPUtil.m */,
-			);
-			path = MainLogic;
-			sourceTree = "<group>";
-		};
-		9DC8883920A42B8F005D338B /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				9DC8883A20A42B8F005D338B /* demo_discussion@2x.png */,
-				9DC8883B20A42B8F005D338B /* pub_title_ico_back_white@2x.png */,
-			);
-			path = Resources;
-			sourceTree = "<group>";
-		};
-		9DC8883C20A42B8F005D338B /* profile */ = {
-			isa = PBXGroup;
-			children = (
-				9DC8883D20A42B8F005D338B /* profile.json */,
-			);
-			path = profile;
-			sourceTree = "<group>";
-		};
-		9DC8884020A42B8F005D338B /* Customize */ = {
-			isa = PBXGroup;
-			children = (
-				9DC8884120A42B8F005D338B /* Resources */,
-				9DC8884C20A42B8F005D338B /* Customized Message */,
-			);
-			path = Customize;
-			sourceTree = "<group>";
-		};
-		9DC8884120A42B8F005D338B /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				9DC8884220A42B8F005D338B /* icon_add@2x.png */,
-				9DC8884320A42B8F005D338B /* YW_TGZ_Emoitons.emo */,
-				9DC8884420A42B8F005D338B /* calling_card_bg@2x.png */,
-				9DC8884520A42B8F005D338B /* CustomizedUIResources.bundle */,
-				9DC8884620A42B8F005D338B /* face_e@2x.png */,
-				9DC8884720A42B8F005D338B /* greeting_message@2x.png */,
-				9DC8884820A42B8F005D338B /* input_plug_ico_hi_nor@2x.png */,
-				9DC8884920A42B8F005D338B /* input_plug_ico_card_nor@2x.png */,
-				9DC8884A20A42B8F005D338B /* icon_delete@2x.png */,
-				9DC8884B20A42B8F005D338B /* input_plug_ico_transparent_nor@2x.png */,
-			);
-			path = Resources;
-			sourceTree = "<group>";
-		};
-		9DC8884C20A42B8F005D338B /* Customized Message */ = {
-			isa = PBXGroup;
-			children = (
-				9DC8884D20A42B8F005D338B /* Greeting */,
-				9DC8885420A42B8F005D338B /* Transparent */,
-				9DC8885720A42B8F005D338B /* Other */,
-				9DC8886020A42B8F005D338B /* CallingCard */,
-			);
-			path = "Customized Message";
-			sourceTree = "<group>";
-		};
-		9DC8884D20A42B8F005D338B /* Greeting */ = {
-			isa = PBXGroup;
-			children = (
-				9DC8884E20A42B8F005D338B /* SPGreetingBubbleChatView.h */,
-				9DC8884F20A42B8F005D338B /* SPInputViewPluginGreeting.h */,
-				9DC8885020A42B8F005D338B /* SPGreetingBubbleViewModel.m */,
-				9DC8885120A42B8F005D338B /* SPGreetingBubbleChatView.m */,
-				9DC8885220A42B8F005D338B /* SPInputViewPluginGreeting.m */,
-				9DC8885320A42B8F005D338B /* SPGreetingBubbleViewModel.h */,
-			);
-			path = Greeting;
-			sourceTree = "<group>";
-		};
-		9DC8885420A42B8F005D338B /* Transparent */ = {
-			isa = PBXGroup;
-			children = (
-				9DC8885520A42B8F005D338B /* SPInputViewPluginTransparent.m */,
-				9DC8885620A42B8F005D338B /* SPInputViewPluginTransparent.h */,
-			);
-			path = Transparent;
-			sourceTree = "<group>";
-		};
-		9DC8885720A42B8F005D338B /* Other */ = {
-			isa = PBXGroup;
-			children = (
-				9DC8885820A42B8F005D338B /* SPBubbleViewModelCustomize.h */,
-				9DC8885920A42B8F005D338B /* SPBaseBubbleChatViewCustomize.m */,
-				9DC8885A20A42B8F005D338B /* TSBuyOrSaleChatViewCustomize.m */,
-				9DC8885B20A42B8F005D338B /* TSBuyOrSaleChatModel.m */,
-				9DC8885C20A42B8F005D338B /* SPBubbleViewModelCustomize.m */,
-				9DC8885D20A42B8F005D338B /* SPBaseBubbleChatViewCustomize.h */,
-				9DC8885E20A42B8F005D338B /* TSBuyOrSaleChatModel.h */,
-				9DC8885F20A42B8F005D338B /* TSBuyOrSaleChatViewCustomize.h */,
-			);
-			path = Other;
-			sourceTree = "<group>";
-		};
-		9DC8886020A42B8F005D338B /* CallingCard */ = {
-			isa = PBXGroup;
-			children = (
-				9DC8886120A42B8F005D338B /* SPCallingCardBubbleChatContentView.xib */,
-				9DC8886220A42B8F005D338B /* SPInputViewPluginCallingCard.h */,
-				9DC8886320A42B8F005D338B /* SPCallingCardBubbleViewModel.h */,
-				9DC8886420A42B8F005D338B /* SPCallingCardBubbleChatView.m */,
-				9DC8886520A42B8F005D338B /* SPInputViewPluginCallingCard.m */,
-				9DC8886620A42B8F005D338B /* SPCallingCardBubbleChatView.h */,
-				9DC8886720A42B8F005D338B /* SPCallingCardBubbleViewModel.m */,
-			);
-			path = CallingCard;
 			sourceTree = "<group>";
 		};
 		9DC8889020A42F3C005D338B /* ThirdFramework */ = {
@@ -543,6 +375,133 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		9DC8891020A43DE1005D338B /* IM */ = {
+			isa = PBXGroup;
+			children = (
+				9DC8891120A43DE1005D338B /* MainLogic */,
+				9DC8891B20A43DE1005D338B /* Customize */,
+			);
+			path = IM;
+			sourceTree = "<group>";
+		};
+		9DC8891120A43DE1005D338B /* MainLogic */ = {
+			isa = PBXGroup;
+			children = (
+				9DC8891220A43DE1005D338B /* SPKitExample.m */,
+				9DC8891320A43DE1005D338B /* SPUtil.h */,
+				9DC8891420A43DE1005D338B /* Resources */,
+				9DC8891720A43DE1005D338B /* profile */,
+				9DC8891920A43DE1005D338B /* SPKitExample.h */,
+				9DC8891A20A43DE1005D338B /* SPUtil.m */,
+			);
+			path = MainLogic;
+			sourceTree = "<group>";
+		};
+		9DC8891420A43DE1005D338B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9DC8891520A43DE1005D338B /* demo_discussion@2x.png */,
+				9DC8891620A43DE1005D338B /* pub_title_ico_back_white@2x.png */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		9DC8891720A43DE1005D338B /* profile */ = {
+			isa = PBXGroup;
+			children = (
+				9DC8891820A43DE1005D338B /* profile.json */,
+			);
+			path = profile;
+			sourceTree = "<group>";
+		};
+		9DC8891B20A43DE1005D338B /* Customize */ = {
+			isa = PBXGroup;
+			children = (
+				9DC8891C20A43DE1005D338B /* Resources */,
+				9DC8892720A43DE1005D338B /* Customized Message */,
+			);
+			path = Customize;
+			sourceTree = "<group>";
+		};
+		9DC8891C20A43DE1005D338B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9DC8891D20A43DE1005D338B /* icon_add@2x.png */,
+				9DC8891E20A43DE1005D338B /* YW_TGZ_Emoitons.emo */,
+				9DC8891F20A43DE1005D338B /* calling_card_bg@2x.png */,
+				9DC8892020A43DE1005D338B /* CustomizedUIResources.bundle */,
+				9DC8892120A43DE1005D338B /* face_e@2x.png */,
+				9DC8892220A43DE1005D338B /* greeting_message@2x.png */,
+				9DC8892320A43DE1005D338B /* input_plug_ico_hi_nor@2x.png */,
+				9DC8892420A43DE1005D338B /* input_plug_ico_card_nor@2x.png */,
+				9DC8892520A43DE1005D338B /* icon_delete@2x.png */,
+				9DC8892620A43DE1005D338B /* input_plug_ico_transparent_nor@2x.png */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		9DC8892720A43DE1005D338B /* Customized Message */ = {
+			isa = PBXGroup;
+			children = (
+				9DC8892820A43DE1005D338B /* Greeting */,
+				9DC8892F20A43DE1005D338B /* Transparent */,
+				9DC8893220A43DE1005D338B /* Other */,
+				9DC8893B20A43DE1005D338B /* CallingCard */,
+			);
+			path = "Customized Message";
+			sourceTree = "<group>";
+		};
+		9DC8892820A43DE1005D338B /* Greeting */ = {
+			isa = PBXGroup;
+			children = (
+				9DC8892920A43DE1005D338B /* SPGreetingBubbleChatView.h */,
+				9DC8892A20A43DE1005D338B /* SPInputViewPluginGreeting.h */,
+				9DC8892B20A43DE1005D338B /* SPGreetingBubbleViewModel.m */,
+				9DC8892C20A43DE1005D338B /* SPGreetingBubbleChatView.m */,
+				9DC8892D20A43DE1005D338B /* SPInputViewPluginGreeting.m */,
+				9DC8892E20A43DE1005D338B /* SPGreetingBubbleViewModel.h */,
+			);
+			path = Greeting;
+			sourceTree = "<group>";
+		};
+		9DC8892F20A43DE1005D338B /* Transparent */ = {
+			isa = PBXGroup;
+			children = (
+				9DC8893020A43DE1005D338B /* SPInputViewPluginTransparent.m */,
+				9DC8893120A43DE1005D338B /* SPInputViewPluginTransparent.h */,
+			);
+			path = Transparent;
+			sourceTree = "<group>";
+		};
+		9DC8893220A43DE1005D338B /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				9DC8893320A43DE1005D338B /* SPBubbleViewModelCustomize.h */,
+				9DC8893420A43DE1005D338B /* SPBaseBubbleChatViewCustomize.m */,
+				9DC8893520A43DE1005D338B /* TSBuyOrSaleChatViewCustomize.m */,
+				9DC8893620A43DE1005D338B /* TSBuyOrSaleChatModel.m */,
+				9DC8893720A43DE1005D338B /* SPBubbleViewModelCustomize.m */,
+				9DC8893820A43DE1005D338B /* SPBaseBubbleChatViewCustomize.h */,
+				9DC8893920A43DE1005D338B /* TSBuyOrSaleChatModel.h */,
+				9DC8893A20A43DE1005D338B /* TSBuyOrSaleChatViewCustomize.h */,
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
+		9DC8893B20A43DE1005D338B /* CallingCard */ = {
+			isa = PBXGroup;
+			children = (
+				9DC8893C20A43DE1005D338B /* SPCallingCardBubbleChatContentView.xib */,
+				9DC8893D20A43DE1005D338B /* SPInputViewPluginCallingCard.h */,
+				9DC8893E20A43DE1005D338B /* SPCallingCardBubbleViewModel.h */,
+				9DC8893F20A43DE1005D338B /* SPCallingCardBubbleChatView.m */,
+				9DC8894020A43DE1005D338B /* SPInputViewPluginCallingCard.m */,
+				9DC8894120A43DE1005D338B /* SPCallingCardBubbleChatView.h */,
+				9DC8894220A43DE1005D338B /* SPCallingCardBubbleViewModel.m */,
+			);
+			path = CallingCard;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -601,26 +560,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9DC8887220A42B8F005D338B /* demo_discussion@2x.png in Resources */,
-				9DC8887B20A42B8F005D338B /* greeting_message@2x.png in Resources */,
-				9DC8887F20A42B8F005D338B /* input_plug_ico_transparent_nor@2x.png in Resources */,
-				9DC8887E20A42B8F005D338B /* icon_delete@2x.png in Resources */,
-				9DC8886B20A42B8F005D338B /* WXOUIModuleResources.bundle in Resources */,
-				9DC8887820A42B8F005D338B /* calling_card_bg@2x.png in Resources */,
-				9DC8887920A42B8F005D338B /* CustomizedUIResources.bundle in Resources */,
+				9DC8894E20A43DE1005D338B /* input_plug_ico_hi_nor@2x.png in Resources */,
+				9DC8894A20A43DE1005D338B /* calling_card_bg@2x.png in Resources */,
+				9DC8894B20A43DE1005D338B /* CustomizedUIResources.bundle in Resources */,
+				9DC8895120A43DE1005D338B /* input_plug_ico_transparent_nor@2x.png in Resources */,
+				9DC8894520A43DE1005D338B /* pub_title_ico_back_white@2x.png in Resources */,
+				9DC8894420A43DE1005D338B /* demo_discussion@2x.png in Resources */,
+				9DC8894F20A43DE1005D338B /* input_plug_ico_card_nor@2x.png in Resources */,
 				9DC8881E20A42B37005D338B /* LaunchScreen.storyboard in Resources */,
-				9DC8887420A42B8F005D338B /* profile.json in Resources */,
-				9DC8886D20A42B8F005D338B /* yw_1222.jpg in Resources */,
-				9DC8887C20A42B8F005D338B /* input_plug_ico_hi_nor@2x.png in Resources */,
-				9DC8887D20A42B8F005D338B /* input_plug_ico_card_nor@2x.png in Resources */,
-				9DC8888820A42B8F005D338B /* SPCallingCardBubbleChatContentView.xib in Resources */,
-				9DC8887A20A42B8F005D338B /* face_e@2x.png in Resources */,
-				9DC8886E20A42B8F005D338B /* WXOpenIMSDKResource.bundle in Resources */,
+				9DC8894C20A43DE1005D338B /* face_e@2x.png in Resources */,
 				9DC8881B20A42B37005D338B /* Assets.xcassets in Resources */,
-				9DC8887320A42B8F005D338B /* pub_title_ico_back_white@2x.png in Resources */,
 				9DC8881920A42B35005D338B /* Main.storyboard in Resources */,
-				9DC8887720A42B8F005D338B /* YW_TGZ_Emoitons.emo in Resources */,
-				9DC8887620A42B8F005D338B /* icon_add@2x.png in Resources */,
+				9DC8895020A43DE1005D338B /* icon_delete@2x.png in Resources */,
+				9DC8894920A43DE1005D338B /* YW_TGZ_Emoitons.emo in Resources */,
+				9DC8894820A43DE1005D338B /* icon_add@2x.png in Resources */,
+				9DC8894D20A43DE1005D338B /* greeting_message@2x.png in Resources */,
+				9DC8894620A43DE1005D338B /* profile.json in Resources */,
+				9DC8895A20A43DE1005D338B /* SPCallingCardBubbleChatContentView.xib in Resources */,
 				9DC888D820A42F3C005D338B /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -632,16 +588,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9DC8888520A42B8F005D338B /* TSBuyOrSaleChatViewCustomize.m in Sources */,
 				9DC888E220A42F3C005D338B /* SDWebImagePrefetcher.m in Sources */,
 				9DC888DB20A42F3C005D338B /* SDWebImageManager.m in Sources */,
 				9DC888D920A42F3C005D338B /* UIImage+WebP.m in Sources */,
+				9DC8895B20A43DE1005D338B /* SPCallingCardBubbleChatView.m in Sources */,
 				9DC888E420A42F3C005D338B /* SDWebImageDownloaderOperation.m in Sources */,
-				9DC8888420A42B8F005D338B /* SPBaseBubbleChatViewCustomize.m in Sources */,
-				9DC8888320A42B8F005D338B /* SPInputViewPluginTransparent.m in Sources */,
-				9DC8888920A42B8F005D338B /* SPCallingCardBubbleChatView.m in Sources */,
 				9DC888D020A42F3C005D338B /* MASCompositeConstraint.m in Sources */,
-				9DC8887520A42B8F005D338B /* SPUtil.m in Sources */,
 				9DC888D520A42F3C005D338B /* MASConstraint.m in Sources */,
 				9DC888D420A42F3C005D338B /* View+MASAdditions.m in Sources */,
 				9DC888E720A42F3C005D338B /* UIView+WebCacheOperation.m in Sources */,
@@ -649,30 +601,34 @@
 				9DC888E120A42F3C005D338B /* SDWebImageCompat.m in Sources */,
 				9DC888E620A42F3C005D338B /* UIImageView+WebCache.m in Sources */,
 				9DC888DF20A42F3C005D338B /* UIImage+GIF.m in Sources */,
+				9DC8895420A43DE1005D338B /* SPInputViewPluginGreeting.m in Sources */,
+				9DC8895220A43DE1005D338B /* SPGreetingBubbleViewModel.m in Sources */,
 				9DC8881620A42B35005D338B /* ViewController.swift in Sources */,
-				9DC8888A20A42B8F005D338B /* SPInputViewPluginCallingCard.m in Sources */,
 				9DC888D720A42F3C005D338B /* MASViewAttribute.m in Sources */,
+				9DC8895720A43DE1005D338B /* TSBuyOrSaleChatViewCustomize.m in Sources */,
 				9DC888CE20A42F3C005D338B /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
-				9DC8888120A42B8F005D338B /* SPGreetingBubbleChatView.m in Sources */,
 				9DC888E320A42F3C005D338B /* SDImageCache.m in Sources */,
-				9DC8888620A42B8F005D338B /* TSBuyOrSaleChatModel.m in Sources */,
-				9DC8888B20A42B8F005D338B /* SPCallingCardBubbleViewModel.m in Sources */,
 				9DC888D220A42F3C005D338B /* MASLayoutConstraint.m in Sources */,
 				9DC888DD20A42F3C005D338B /* UIImageView+HighlightedWebCache.m in Sources */,
 				9DC888DA20A42F3C005D338B /* MKAnnotationView+WebCache.m in Sources */,
+				9DC8895320A43DE1005D338B /* SPGreetingBubbleChatView.m in Sources */,
 				9DC888D620A42F3C005D338B /* MASViewConstraint.m in Sources */,
-				9DC8887120A42B8F005D338B /* SPKitExample.m in Sources */,
+				9DC8894720A43DE1005D338B /* SPUtil.m in Sources */,
 				9DC888D320A42F3C005D338B /* NSArray+MASAdditions.m in Sources */,
+				9DC8895620A43DE1005D338B /* SPBaseBubbleChatViewCustomize.m in Sources */,
 				9DC888DC20A42F3C005D338B /* SDWebImageDecoder.m in Sources */,
 				9DC888E820A42F3C005D338B /* UIButton+WebCache.m in Sources */,
-				9DC8888220A42B8F005D338B /* SPInputViewPluginGreeting.m in Sources */,
+				9DC8895920A43DE1005D338B /* SPBubbleViewModelCustomize.m in Sources */,
 				9DC888D120A42F3C005D338B /* MASConstraintMaker.m in Sources */,
 				9DC888E520A42F3C005D338B /* NSData+ImageContentType.m in Sources */,
 				9DC888DE20A42F3C005D338B /* SDWebImageDownloader.m in Sources */,
-				9DC8888720A42B8F005D338B /* SPBubbleViewModelCustomize.m in Sources */,
+				9DC8895C20A43DE1005D338B /* SPInputViewPluginCallingCard.m in Sources */,
 				9DC8881420A42B35005D338B /* AppDelegate.swift in Sources */,
+				9DC8895820A43DE1005D338B /* TSBuyOrSaleChatModel.m in Sources */,
+				9DC8894320A43DE1005D338B /* SPKitExample.m in Sources */,
+				9DC8895D20A43DE1005D338B /* SPCallingCardBubbleViewModel.m in Sources */,
+				9DC8895520A43DE1005D338B /* SPInputViewPluginTransparent.m in Sources */,
 				9DC888CF20A42F3C005D338B /* ViewController+MASAdditions.m in Sources */,
-				9DC8888020A42B8F005D338B /* SPGreetingBubbleViewModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
